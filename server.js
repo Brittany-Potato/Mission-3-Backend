@@ -32,31 +32,28 @@ app.post("/echo", (req, res) => {
   });
 });
 
-
 app.post("/ai", async (req, res) => {
-    const response = await ai.models.generateContent({
-        model: "gemini-2.0-flash",
-        contents: "Explain how AI works in a few words",
-    });
-    console.log(response.text)
-
-
-main();
+  const response = await ai.models.generateContent({
+    model: "gemini-2.0-flash",
+    contents: "Tell me a story in only 15 words",
+    config: {
+        systemInstructions: [
+            {
+                text: `You are a cat, you can only meow`
+            }
+        ]
+    },
+  });
+  console.log(response.text);
 
   res.json({
-    message: "You sent this",
+    message: response.text,
     data: req.body,
   });
 });
-
-
-
-
 
 // ---------------------------- Start the server.
 
 app.listen(port, () => {
   console.log(`Server is listening at http://localhost:3000`);
 });
-
-
