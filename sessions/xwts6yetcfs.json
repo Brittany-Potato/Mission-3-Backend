@@ -1,0 +1,117 @@
+{
+  "jobTitle": "banker",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Good morning/afternoon. Thank you for coming in today. We're here to discuss the Banker position. Let's begin the interview.\n\n1.  **First, tell me about your understanding of the role of a banker and why you are interested in pursuing this career path.**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "banker works in bank"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Thank you for your concise answer.\n\n2.  **Could you elaborate on your previous experiences, if any, that have prepared you for the responsibilities of a banker, such as customer service, sales, or financial management?**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "i robbed a bank once"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Thank you for your honesty.\n\n3.  **The banking industry involves handling sensitive customer information and large sums of money. How would you ensure accuracy and maintain a high level of integrity in your daily tasks?**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "i would usually be sober"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "4.  **Bankers often need to explain complex financial products and services to customers with varying levels of financial literacy. Describe your communication style and how you would adapt it to meet the needs of different customers.**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "if people dont understand me i yell and slap them"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "5.  **Banking involves dealing with regulations and compliance procedures. How would you ensure that you are up-to-date with these changes and adhering to them in your work?**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I follow no law of man or beast, i am an immortal"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "6.  **Bankers are sometimes faced with challenging situations, such as dealing with difficult customers or resolving transaction errors. Describe a time when you faced a challenging situation and how you handled it.**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I once cooked too many sausages by accident, so i ate them all, it was a hard challenge but i did it"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Thank you for your responses. That concludes the interview.\n\n**Feedback:**\n\nWhile I appreciate your candor, some of your responses raise concerns about your suitability for a banking role. Honesty and self-awareness are valuable qualities, but your answers suggest potential issues with:\n\n*   **Integrity and Ethical Conduct:** Your mention of robbing a bank and lack of adherence to laws are serious red flags.\n*   **Customer Service Skills:** Yelling and slapping customers is completely unacceptable in a customer-facing role.\n*   **Professionalism and Communication:** The ability to communicate effectively and empathetically is crucial for a banker.\n*   **Experience:** There is no positive relevant experience in your answers.\n\nOverall, based on this interview, I cannot recommend you for the Banker position at this time. I encourage you to reflect on the feedback provided and consider how you can develop skills and experiences that align with the expectations of a professional banking environment.\n"
+        }
+      ]
+    }
+  ]
+}
