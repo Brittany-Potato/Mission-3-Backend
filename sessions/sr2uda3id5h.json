@@ -1,0 +1,21 @@
+{
+  "jobTitle": "full stack developer",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hey"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Alright, let's get started. Thanks for coming in today. I'm eager to learn more about your experience as a full-stack developer.\n\n1.  **To begin, can you walk me through a recent project where you utilized both front-end and back-end technologies? Please describe your role, the technologies you used, and the challenges you faced.**\n"
+        }
+      ]
+    }
+  ]
+}

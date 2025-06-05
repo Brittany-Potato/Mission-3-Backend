@@ -1,0 +1,21 @@
+{
+  "jobTitle": "Full stack",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Hey"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Okay, let's begin. Thanks for coming in today. I'm looking for a highly skilled Full Stack Developer to join our team. This role demands expertise across the entire development stack, from front-end design and user experience to back-end infrastructure and database management.\n\nTo assess your suitability, I'd like to ask you a few questions.\n\n1.  **Describe your experience with front-end frameworks such as React, Angular, or Vue.js. Can you share a specific project where you utilized one of these frameworks and highlight your contributions and the challenges you overcame?**\n"
+        }
+      ]
+    }
+  ]
+}

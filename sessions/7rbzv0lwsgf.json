@@ -1,0 +1,53 @@
+{
+  "jobTitle": "full stack dev",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Hey i want a job"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Alright, let's get started. Thanks for coming in today. I'm looking for a Full Stack Developer to join our team. Let's dive right into it. I'm going to ask a few questions to gauge your suitability for this role.\n\n1.  **Describe a complex full-stack project you've worked on. What were the biggest challenges you faced, and how did you overcome them?**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I created a chatbot"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Okay, good. Let's build on that.\n\n2.  **Tell me more about the chatbot project. What specific technologies (front-end, back-end, database) did you use, and why did you choose them? Can you describe the architecture of the application?**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hfcjgf"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Okay, I understand this might be a little stressful. Let's try a slightly different approach.\n\n3.  **Imagine you're building a feature for a web application that allows users to upload profile pictures. Walk me through the full development lifecycle, from designing the user interface to storing the images securely on the back-end.**\n"
+        }
+      ]
+    }
+  ]
+}

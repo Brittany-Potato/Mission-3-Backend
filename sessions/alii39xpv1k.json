@@ -1,0 +1,21 @@
+{
+  "jobTitle": "Full t=stack dev",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Hey can you help me with a mock job inyterview'"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Alright, let's begin the mock interview for the Full-Stack Developer position. Please be as detailed and thorough as possible with your answers.\n\n**Question 1:** Describe a complex full-stack project you worked on. What were the key technologies involved, what challenges did you face, and how did you overcome them?\n"
+        }
+      ]
+    }
+  ]
+}

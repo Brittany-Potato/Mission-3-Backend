@@ -245,7 +245,6 @@ app.post("/chat", async (req, res) => {
 })
 
 
-
 // ---------------------------- Start the server.
 
 // Ensure sessions directory exists before starting the server
@@ -257,3 +256,6 @@ ensureSessionsDirectory().then(() => {
     console.error("Failed to start server due to directory creation error:", error);
     process.exit(1); // Exit if directory cannot be ensured
 });
+
+
+
