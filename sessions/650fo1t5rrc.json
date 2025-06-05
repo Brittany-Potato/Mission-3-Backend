@@ -1,0 +1,53 @@
+{
+  "jobTitle": "banker",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Okay, let's begin the interview.\n\n**Question 1: Describe your risk management approach?**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Okay, let's begin the interview.\n\n**Question 1: Describe your risk management approach?**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "I understand there may have been an issue. Let's try this again.\n\n**Question 1: Describe your risk management approach?**\n"
+        }
+      ]
+    }
+  ]
+}

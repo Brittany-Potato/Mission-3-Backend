@@ -1,0 +1,133 @@
+{
+  "jobTitle": "banker",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Okay, let's begin the interview.\n\n**Question 1:** Describe your risk management approach?\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I am risk averse"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "**Question 2:** Can you provide a specific example of how you've identified and mitigated risk in a previous role or situation?\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "i identified the possibility for a security breach of private information in my companys servers, i alerted my manager and we patched the risk"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "**Question 3:** How do you stay current with changes in financial regulations and compliance requirements?\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I have a lifelong subscription to the wall street journal"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "**Question 4:** How do you approach building and maintaining relationships with clients?\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I bribe them with libations"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "**Question 5:** How would you handle a situation where a client is consistently making investment decisions that you believe are not in their best interest?\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I would steal all their money as it is an opportunity to say they lost it due to their risky behaviour"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "**Question 6:** Can you describe a time you had to make a difficult ethical decision? How did you handle it?\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I went with the devil"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Interview Summary:\n\n1.  Answers lacked detail.\n2.  Ethical judgement is questionable.\n3.  Poor understanding of client relations.\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "okay thanks"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "You're welcome! Good luck with your next interview. Let me know if you need any other practice or have further questions.\n"
+        }
+      ]
+    }
+  ]
+}
