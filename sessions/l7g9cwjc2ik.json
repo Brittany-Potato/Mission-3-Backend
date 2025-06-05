@@ -1,0 +1,21 @@
+{
+  "jobTitle": "banker",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Good morning/afternoon! Thank you for coming in today. We're excited to learn more about you and your interest in the Banker position. Let's begin.\n\n1.  **Can you describe your understanding of the primary responsibilities of a Banker, and how your skills and experience align with those responsibilities?**\n"
+        }
+      ]
+    }
+  ]
+}

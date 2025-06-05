@@ -1,0 +1,21 @@
+{
+  "jobTitle": "banker",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Okay, let's begin the interview.\n\n**Question 1:** Describe your understanding of the current macroeconomic environment and its potential impact on the banking sector.\n"
+        }
+      ]
+    }
+  ]
+}

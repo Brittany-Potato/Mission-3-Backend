@@ -1,0 +1,53 @@
+{
+  "jobTitle": "Banker",
+  "conversationHistory": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Hello"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Okay, let's begin the interview for the Banker position. Thanks for coming in.\n\n1.  **To start, can you describe your understanding of the primary responsibilities of a Banker and how your skills align with those responsibilities?**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I don't know anything about banking"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Thank you for your honesty. While industry knowledge is helpful, transferable skills can still be valuable.\n\n2. **Let's explore your skills further. Could you describe a time when you had to explain a complex situation or concept to someone with limited knowledge in that area? How did you ensure they understood?**\n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "I had to train an AI to be able to classify images based on what type of vehicle was in the picture?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Interesting.\n\n3. **Walk me through the steps you took in training the AI. What challenges did you face, and how did you overcome them?**\n"
+        }
+      ]
+    }
+  ]
+}
